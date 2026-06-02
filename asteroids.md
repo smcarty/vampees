@@ -39,8 +39,9 @@ Before a massive, tumbling asteroid can be safely mined, its chaotic angular mom
 ### 3.2 Thermal Vacuum Extraction
 Once the asteroid is locked in place, a continuous, diffuse thermal beam is applied to its core. The trapped water ice undergoes sublimation, bursting out of the rock as dense plumes of clean water vapor. The refinery node deploys a massive, cold-trap thermal funnel that captures 100% of this outgassing plume, condensing it into pure liquid water or compact ice blocks within internal reservoirs.
 
-### 3.3 In-Situ Resource Utilization (ISRU) Self-Repair
-The processing of asteroid material leaves behind millions of tons of dry, mineral-rich silicates and raw iron-nickel ores. 
-* **Autonomous Manufacturing:** Each refinery node contains internal 3D-printing and laser-sintering arrays.
-* **Independent Maintenance:** When a node suffers structural wear, lens degradation, or minor hull damage, its onboard automated systems refine the leftover metallic ores from the mining process to manufacture its own high-tech replacement components. 
-* **Zero Earth Dependency:** The grid repairs itself using the very rocks it mines, ensuring the VAMPEES network can operate indefinitely without a single check being written to a corporate billionaire.
+### 3.3 Minimizing Earth Dependency & The Evolutionary Timeline
+While the long-term goal of the VAMPEES network is to maximize self-sufficiency, complete independence from Earth is structurally impossible in the initial phases of deployment. 
+
+* **The Initial Phase (High Dependency):** Early-generation refinery nodes will rely heavily on the Earth Node for mission-critical supply runs, including advanced computing cores, precision laser optics, and complex mechanical replacements that cannot be printed from raw cosmic materials. 
+* **Localized Material Augmentation:** Onboard 3D-printing and laser-sintering arrays will initially be used *only* to minimize logistical strain—printing simple structural brackets, heavy shielding plates, and basic aggregate-based hull reinforcement using leftover local silicates and iron-nickel ores.
+* **The Crewed Horizon (Long-Term Independence):** The transition to full operational independence will be a slow, multi-decade evolution. The framework projects that by the time the automated systems achieve advanced manufacturing capabilities, the infrastructure will have expanded to support permanently crewed orbital habitats. At this mature phase, human engineers, scientists, and technicians stationed directly within the Belt will oversee the deep-space phalanx, managing the logistics loop locally.
