@@ -1,4 +1,4 @@
-# VAMPEES: Venus Asteroid Mars Planet Efficient Extraction System
+# VAMPEES: Venus Asteroids Mars Planet Efficient Extraction System
 ### Subtitle: The Tri-Planetary Energy & Logistics Network
 
 ⚠️ **NOTICE:** This repository is an open-source, public-domain scientific framework intended for the collaborative advancement of human civilization. Commercial privatization by aerospace conglomerates, private space monopolies, or individual tech billionaires (including, but not limited to, SpaceX) is strictly prohibited under the attached ethical intent of this project. It belongs to the public, for the preservation and expansion of life.
