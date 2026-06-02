@@ -39,3 +39,9 @@ Once the atmosphere is thinned out and a semi-regular, managed solar shade is ma
 * **The Environment:** Even with a thinned atmosphere, the surface of Venus will remain a hostile, high-pressure environment requiring specialized architecture.
 * **Reflective Protective Domes:** Human colonization is achieved deep within localized, heavily engineered structural domes built directly on the Venusian crust. 
 * **Thermal Management:** These domes are coated in advanced, high-albedo reflective materials to bounce away any residual thermal energy. Supported by active internal cooling loops powered directly by the orbital grid above, these deep-surface sanctuaries allow humans to live, work, and sustain independent biospheres safely beneath the Venusian sky.
+
+### 3.1 Atmospheric Biosphere Auditing
+* **Pre-Transformation Surveying:** Prior to the deployment of Phase I drone scoops or any intentional atmospheric alteration, a mandatory, multi-decade biological audit must be conducted by uncrewed, sterile science probes throughout the temperate cloud layers.
+* **The Preservation Mandate:** If independent biogenesis is confirmed within the Venusian atmosphere, the engineering roadmaps for atmospheric thinning and carbon liquefaction must be immediately halted or fundamentally altered. 
+* **Coexistence Architecture:** In the event of indigenous life, human presence must remain permanently confined to closed orbital stations or highly localized surface domes that interact 0% with the native biosphere, leaving the Venusian atmosphere as a protected, untouchable sanctuary.
+
