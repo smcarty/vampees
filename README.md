@@ -17,14 +17,16 @@ The **VAMPEES** architecture treats the inner solar system as a unified chemical
 
 To explore the specific technical blueprints of this network, please read the dedicated framework documents below:
 
-*   📂 **[Phase I: The Venusian Power Engine](./phase1-venus.md)**
+*   📂 **[The Venusian Power Engine](./venus.md)**
     *   Phased automated deployment moving from a rotating planetary orbit to a true, stationary solar statite swarm.
-*   📂 **[Phase II: The Interplanetary Power Grid](./phase2-logistics.md)**
+*   📂 **[The Interplanetary Power Grid](./logistics.md)**
     *   Wireless power beaming via phased laser arrays and propellantless ballistic capture packets.
-*   📂 **[Phase III: The Asteroid Belt Refinery](./phase3-asteroids.md)**
+*   📂 **[The Asteroid Belt Refinery](./asteroids.md)**
     *   Automated kinetic de-tumbling, thermal vacuum extraction, and a "Tower Defense" style mutual orbital defense phalanx.
-*   📂 **[Phase IV: The Martian Influx](./phase4-mars.md)**
+*   📂 **[The Martian Influx](./mars.md)**
     *   Utilizing asteroid aggregate for high-density cosmic concrete and atmospheric replenishment.
+*   📂 **[The Earth Node](./earth.md)**
+    *   Receiving engery from Venus and sending Refinery supplies will be an ongoing task.
 
 ---
 
