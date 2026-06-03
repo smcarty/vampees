@@ -16,24 +16,24 @@ Files in this folder are treated as serious engineering candidates. To help a de
 
 ---
 
-## 📝 Asteroid Belt Proposal Template
+## ☄️ Asteroid Belt Proposal Template
 
 When adding a new proposal to this folder, please create a new Markdown file (e.g., `autonomous-laser-sintering.md`) and use the structural template below:
 
-### 💡 Proposal Title: [Name your design or process here]
+### Proposal Title: [Name your design or process here]
 **Contributed by:** [@your-github-username]
 
-#### 🔍 Executive Summary
+#### Executive Summary
 *In 2–3 sentences, what is this specific mechanism, mining technique, or repair process, and what exact bottleneck does it solve for the Asteroid Belt Node?*
 
-#### ⚙️ Technical Layout & Mechanisms
+#### Technical Layout & Mechanisms
 *Provide the detailed blueprint of the concept. Describe the step-by-step mechanical, chemical, or physical process. How does it extract resources, process raw stock, or execute structural repairs in low-gravity or vacuum environments?*
 
-#### 🔧 Maintenance, Wear, & Repair Lifecycle
+#### Maintenance, Wear, & Repair Lifecycle
 *How does this system handle its own wear and tear? Describe the repair processes required to keep this machine or structure operational. Can its components be repaired or fabricated using local asteroid materials, or does it require specialized tool restoration loops?*
 
-#### 📐 The Math & Material Sandbox
+#### The Math & Material Sandbox
 *Lay out your current numbers here. What are the estimated material yields, energy consumption profiles, or structural tensile strengths? (Don't worry if the math isn't 100% perfect yet—this is where the community will jump in to help you refine it).*
 
-#### ⚠️ Engineering Vulnerabilities
+#### Engineering Vulnerabilities
 *What are the known weak points or hurdles? Fine regolith dust jamming mechanical joints? High energy requirements for smelting? Difficulties with zero-g fluid dynamics or weld integrity? List the exact puzzles we need to solve together to get this design green-lit.*
