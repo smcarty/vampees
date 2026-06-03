@@ -1,4 +1,4 @@
-# 📑 Venus Node: Technical Proposals
+# ☁️ Venus Node: Technical Proposals
 
 Welcome to the active incubation and review floor for the Venusian sector. This directory is where specific, focused engineering designs, atmospheric calculations, and material science variants live while they are being actively audited, stress-tested, and honed by the community.
 
@@ -16,21 +16,21 @@ Files in this folder are treated as serious engineering candidates. To help an i
 
 ---
 
-## 📝 Venusian Proposal Template
+## ☁️  Venusian Proposal Template
 
 When adding a new proposal to this folder, please create a new Markdown file (e.g., `buoyant-graphene-cells.md`) and use the structural template below:
 
-### 💡 Proposal Title: [Name your design here]
+###  Proposal Title: [Name your design here]
 **Contributed by:** [@your-github-username]
 
-#### 🔍 Executive Summary
+#### Executive Summary
 *In 2–3 sentences, what is this specific mechanism, component, or system, and what exact problem does it solve for the Venus Node?*
 
-#### ⚙️ Technical Layout & Mechanisms
+#### Technical Layout & Mechanisms
 *Provide the detailed blueprint of the concept. Imagine writing a hard sci-fi novel or drafting an artisan schematic—how does it work? Describe the materials used (e.g., acid-resistant polymers, solar-reflective films), the mechanical steps, and the structural design.*
 
-#### 📐 The Math & Physics Sandbox
+#### The Math & Physics Sandbox
 *Lay out your current numbers here. What is the estimated atmospheric depth/pressure layer it operates in? If it's an aerostat, what is the lifting gas ratio? If it's an energy collector, what is the estimated yield? (Don't worry if the math isn't 100% perfect yet—this is where the community will jump in to help you refine it).*
 
-#### ⚠️ Engineering Vulnerabilities
+#### Engineering Vulnerabilities
 *What are the known weak points or hurdles? Material degradation from sulfuric acid? High wind shear? Weight-to-lift ratios? List the exact puzzles we need to solve together to get this design green-lit.*
