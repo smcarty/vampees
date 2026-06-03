@@ -16,4 +16,3 @@ If you are here to exploit, privatize, or claim-stake the cosmos for the enrichm
 
 ***
 
-*— smcarty*
