@@ -1,9 +1,9 @@
-# 🚛 The Interplanetary Logistics Pipeline: Ballistic Traded Mass & Lunar Energy Depots
+# The Interplanetary Logistics Pipeline: Ballistic Traded Mass & Lunar Energy Depots
 ## VAMPEES Framework Document | Section 6
 
 ---
 
-## 🎛️ 1. The Tri-Planetary Supply Chain
+## 1. The Tri-Planetary Supply Chain
 
 The VAMPEES architecture relies on a continuous, automated material and resource pipeline stretching from the inner solar system to the edge of the Main Asteroid Belt. Because Earth cannot spare mass, the logistics loop must balance itself entirely on the trade of energy from Venus, raw materials from the Belt, and the low-gravity processing capabilities of Mars. 
 
@@ -11,7 +11,7 @@ To run this multi-century system without massive fuel expenditures, the infrastr
 
 ---
 
-## 📐 2. Orbital Mechanics & Low-Energy Transit
+## 2. Orbital Mechanics & Low-Energy Transit
 
 The movement of heavy aggregate payload packages and volatile ice blocks requires highly efficient orbital trajectories. The VAMPEES logistics engine relies on two primary mechanics to move mass across deep space.
 
@@ -22,7 +22,7 @@ The movement of heavy aggregate payload packages and volatile ice blocks require
 
 ---
 
-## 🔋 3. The Physical Energy Packet Pipeline (Venus to Earth)
+## 3. The Physical Energy Packet Pipeline (Venus to Earth)
 
 While long-range wireless power beaming is utilized for the outer system, the Earth Node relies on a tangible, high-security method to receive power harvested by the Venusian solar arrays: **Physical Energy Packets**.
 
@@ -31,7 +31,7 @@ While long-range wireless power beaming is utilized for the outer system, the Ea
 
 ---
 
-## 🌕 4. The Earth Node: The Lunar Far-Side Buffer
+## 🌍 4. The Earth Node: The Lunar Far-Side Buffer
 
 To safely intercept these high-velocity energy packets and protect Earth's biosphere from industrial accidents, the primary receiving infrastructure is entirely localized within the Moon's shadow.
 
@@ -43,7 +43,7 @@ To safely intercept these high-velocity energy packets and protect Earth's biosp
 
 ---
 
-## 🛠️ 5. The Earth-Belt High-Tech Corridor
+## 5. The Earth-Belt High-Tech Corridor
 
 While the Asteroid Belt and Mars nodes can 3D-print heavy structural components from raw local metals and silicates, the entire system depends on a reliable, non-exploitative pipeline of high-technology components originating from Earth.
 
