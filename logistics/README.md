@@ -1,4 +1,4 @@
-# 🛤️ Interplanetary Logistics: System Proposals
+# ⛵️ Interplanetary Logistics: System Proposals
 
 Welcome to the active evaluation floor for the VAMPEES automated supply chain. This directory is where specific, focused transportation layouts, automated freight schedules, trajectory models, and resource distribution metrics live while they are being actively audited, stress-tested, and honed by the community.
 
