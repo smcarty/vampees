@@ -18,7 +18,7 @@ When a concept graduates out of the main, universal `sandbox/` directory and pro
 
 ---
 
-## 🪐 Local Core Objectives
+## ☁️ Local Core Objectives
 
 Every file and proposal cultivated in this directory must align with the primary mission of the Venus Node:
 1. **The Energy Engine:** Developing sustainable, high-yield energy collection systems within the sulfuric acid layers and upper atmosphere.
