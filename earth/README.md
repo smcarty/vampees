@@ -6,7 +6,7 @@ However, the Earth Node is designed to decentralize. Over time, its infrastructu
 
 ---
 
-## 🔬 Active Framework & System Proposals
+## Active Framework & System Proposals
 
 To maintain a clean, organized directory, files in this sector are split by their developmental status:
 
@@ -20,7 +20,7 @@ When an engineering, digital, or orbital concept graduates out of the main, univ
 
 ---
 
-## 🪐 Local Core Objectives
+## 🌎 Local Core Objectives
 
 Every file and proposal cultivated in this directory must align with the primary mission of the Earth Node:
 1. **The Tech Pipeline:** Directing the export of high-value, high-precision components (like advanced microprocessors, quantum nodes, and precision optics) to the outer nodes until they achieve local manufacturing self-sufficiency.
@@ -29,7 +29,7 @@ Every file and proposal cultivated in this directory must align with the primary
 
 ---
 
-## 🔮 Future Horizon: The Cis-Lunar & Orbital Web
+## Future Horizon: The Cis-Lunar & Orbital Web
 
 As the system scales, the Earth Node will officially expand into dedicated subfolders to manage the growing web of populated and automated centers:
 
