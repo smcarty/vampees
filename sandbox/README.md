@@ -7,7 +7,7 @@ You do not need a degree in astrophysics, an engineering license, or a backgroun
 
 ---
 
-## 🛠️ How This Sandbox Works
+## How This Sandbox Works
 
 This folder operates as a collaborative staging ground for project evolution:
 
@@ -28,14 +28,14 @@ To add your concept to this universal archive:
 
 ## 📝 Universal Submission Template
 
-### 💡 Concept Title: [Name your idea here]
+### Concept Title: [Name your idea here]
 **Contributed by:** [@your-github-username-here]
 
-#### 🔍 The Core Pitch
+#### The Core Pitch
 *In 2 or 3 sentences, what is the core idea and how does it help humanity explore or utilize the solar system sustainably and ethically?*
 
-#### ⚙️ How It Works (The Vision)
+#### How It Works (The Vision)
 *Describe the mechanism. What does it look like? What does it do? Imagine you are writing a detailed hard sci-fi novel—how would you explain this machine, law, or logistical system to the reader?*
 
-#### ❓ Technical Hurdles & Questions
+#### Technical Hurdles & Questions
 *What parts of this idea are you unsure about? What math, physics, material science, or social roadblocks do we need the community to help solve to graduate this into the main development code?*
