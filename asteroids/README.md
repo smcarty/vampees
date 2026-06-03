@@ -4,7 +4,7 @@ Welcome to the primary directory for the Asteroid Belt sector of the VAMPEES arc
 
 ---
 
-## 🔬 Active Framework & System Proposals
+## Active Framework & System Proposals
 
 To maintain a clean, organized directory, files in this sector are split by their developmental status:
 
