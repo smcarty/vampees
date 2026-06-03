@@ -18,7 +18,7 @@ When a Martian engineering or structural concept graduates out of the main, univ
 
 ---
 
-## 🪐 Local Core Objectives
+## 🔴 Local Core Objectives
 
 Every file and proposal cultivated in this directory must align with the primary mission of the Mars Node:
 1. **The Interstellar Springboard:** Capitalizing on the lower gravity well to build efficient, scalable departure architectures for the outer solar system and the Asteroid Belt.
@@ -27,7 +27,7 @@ Every file and proposal cultivated in this directory must align with the primary
 
 ---
 
-## 🔮 Future Horizon: The Martian Moons
+## 🌖 Future Horizon: The Martian Moons
 
 As the Mars Node scales, the orbital logistics framework will expand to include dedicated operations on the Martian satellites. While these areas currently live within the main Mars directory, future expansions will establish distinct workspaces for:
 
