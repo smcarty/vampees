@@ -1,4 +1,4 @@
-# 📑 Earth Node: Technical Proposals
+# 🌎 Earth Node: Technical Proposals
 
 Welcome to the active incubation and review floor for the Earth sector and its cis-lunar extensions. This directory is where specific, focused software designs, satellite constellation layouts, public-domain encryption standards, and early-stage lunar manufacturing variants live while they are being actively audited, stress-tested, and honed by the community.
 
@@ -16,25 +16,25 @@ Files in this folder are treated as serious systemic candidates. To help a desig
 
 ---
 
-## 📝 Earth Node Proposal Template
+## 🌏 Earth Node Proposal Template
 
 When adding a new proposal to this folder, please create a new Markdown file (e.g., `decentralized-mesh-relay.md` or `lunar-foundry-interface.md`) and use the structural template below:
 
-### 💡 Proposal Title: [Name your design, software, or system here]
+### Proposal Title: [Name your design, software, or system here]
 **Contributed by:** [@your-github-username]
 **Target Sector:** [e.g., Earth Orbit Satellites / Cis-Lunar Transit / Open Data Registries / Luna Surface]
 
-#### 🔍 Executive Summary
+#### Executive Summary
 *In 2–3 sentences, what is this specific digital protocol, hardware pipeline, or orbital layout, and what exact bottleneck or centralization risk does it solve for the project?*
 
-#### ⚙️ Technical Layout & Data Mechanics
+#### Technical Layout & Data Mechanics
 *Provide the detailed blueprint of the concept. For software/data: Describe the network architecture, encryption rules, and data routing paths. For hardware/orbital: Describe the physical specifications, launching mechanisms, or low-gravity automated layouts required.*
 
-#### 🔒 Security, Trust, & Anti-Monopoly Measures
+#### Security, Trust, & Anti-Monopoly Measures
 *How does this system actively defend against corporate capture, venture-capital buyout, or state censorship? Detail how the code or physical infrastructure ensures open public access and remains completely transparent.*
 
-#### 📐 The Math, Bandwidth, & Physics Sandbox
+#### The Math, Bandwidth, & Physics Sandbox
 *Lay out your current numbers here. What are the estimated data throughput speeds, orbital tracking parameters, power consumption metrics, or payload weights? (Don't worry if the math isn't 100% perfect yet—this is where the community will jump in to help you refine it).*
 
-#### ⚠️ Systemic & Digital Vulnerabilities
+#### Systemic & Digital Vulnerabilities
 *What are the known weak points or hurdles? Latency delays over interplanetary distances? Vulnerabilities to localized hardware failure? High initial energy/launch costs from Earth's gravity well? List the exact puzzles we need to solve together to get this design green-lit.*
