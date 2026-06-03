@@ -16,7 +16,7 @@ Files in this folder are treated as serious systemic candidates. To help a logis
 
 ---
 
-## 📝 Logistics Proposal Template
+## 🚀 Logistics Proposal Template
 
 When adding a new logistics proposal to this folder, please create a new Markdown file (e.g., `lunar-cycler-schedule.md`) and use the structural template below:
 
