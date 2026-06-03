@@ -6,7 +6,7 @@ If you can't tell, this framework wasn't built by a corporate think-tank, a mili
 
 I like to dream. I want to see another planet in the future, and I desperately want to dream that there is a world where humans can thrive together while preserving nature and the universe.
 
-> **Colonization must never happen.**
+> **Colonization must never happen again.**
 
 Our planet is teetering on the edge of a great chasm dug out through greed, corporate extraction, and the systemic destruction of cultures, peoples, and ecosystems. The blueprints in this repository exist to prove a point: we can design the hard technology to reach the stars *without* bringing our history of violence and ecocide with us. 
 
