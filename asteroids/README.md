@@ -1,4 +1,4 @@
-# ☄️ Asteroid Belt Node: Extraction & Autonomous Manufacturing
+# Asteroid Belt Node: Extraction & Autonomous Manufacturing
 
 Welcome to the primary directory for the Asteroid Belt sector of the VAMPEES architecture. This folder serves as the active workshop for mapping out the autonomous resource extraction, refining techniques,raw-material processing and repair processes required to feed the decentralized deep-space pipeline.
 
@@ -18,7 +18,7 @@ When an asteroid harvesting or manufacturing concept graduates out of the main, 
 
 ---
 
-## 🪐 Local Core Objectives
+## ☄️ Local Core Objectives
 
 Every file and proposal cultivated in this directory must align with the primary mission of the Asteroid Belt Node:
 1. **In-Situ Resource Utilization (ISRU):** Developing techniques to extract water-ice, precious metals, and structural materials from C-type, S-type, and M-type asteroids.
