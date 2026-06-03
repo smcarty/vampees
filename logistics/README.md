@@ -1,4 +1,4 @@
-# 📑 Interplanetary Logistics: System Proposals
+# 🛤️ Interplanetary Logistics: System Proposals
 
 Welcome to the active evaluation floor for the VAMPEES automated supply chain. This directory is where specific, focused transportation layouts, automated freight schedules, trajectory models, and resource distribution metrics live while they are being actively audited, stress-tested, and honed by the community.
 
@@ -20,17 +20,17 @@ Files in this folder are treated as serious systemic candidates. To help a logis
 
 When adding a new logistics proposal to this folder, please create a new Markdown file (e.g., `lunar-cycler-schedule.md`) and use the structural template below:
 
-### 💡 Proposal Title: [Name your route or system here]
+### Proposal Title: [Name your route or system here]
 **Contributed by:** [@your-github-username]
 
-#### 🔍 Executive Summary
+#### Executive Summary
 *In 2–3 sentences, what is this specific logistical mechanism, trajectory, or registry system, and what exact bottleneck does it solve for the interplanetary pipeline?*
 
-#### ⚙️ Operational Layout & Routing
+#### Operational Layout & Routing
 *Provide the detailed blueprint of the concept. Describe the step-by-step mechanical and orbital flow. How do the automated payloads launch, navigate, decelerate, or transfer cargo between nodes (e.g., Earth, Venus, Mars, or the Belt)?*
 
-#### 📐 The Math & Delta-V Sandbox
+#### The Math & Delta-V Sandbox
 *Lay out your current numbers here. What are the estimated travel times, payload mass limits, propulsion fuel requirements, or digital bandwidth needs? (Don't worry if the math isn't 100% perfect yet—this is where the community will jump in to help you refine it).*
 
-#### ⚠️ Systemic Vulnerabilities
+#### Systemic Vulnerabilities
 *What are the known weak points or hurdles? Excessive radiation exposure for computing components? Long synodic wait times? High risk of orbital drift? List the exact puzzles we need to solve together to get this routing green-lit.*
