@@ -18,8 +18,9 @@ Surface and atmospheric infrastructure are split into distinct structural and ci
     1. *Liquefied Oxygen ($O_2$):* Dispatched to fuel outer-system transit or supply habitat life-support networks.
     2. *Bioplastics & Structural Resins:* Extruded on-site to manufacture equipment hulls without terrestrial material dependencies.
     3. *Nutrient Pastes:* High-protein metabolic baselines for logistics crews across the pipeline.
-* **Personnel Demographics (The "Polar Station" Model):** * Target population is constrained strictly to **200–500 rotational personnel**.
-    * Modeled directly after Earth's Antarctic research hubs (e.g., Amundsen-Scott). The outpost is highly automated; human presence is limited to systems maintenance, bioreactor calibration, and export logistics.
+  * **Personnel Demographics (The "Polar Station" Model):**
+    * Target population is constrained strictly to **200–500 rotational personnel**.
+    * Modeled directly after Earth's Antarctic research hubs (e.g., Amundsen-Scott). The outpost is highly automated; human presence is limited to systems maintenance, bioreactor calibration, research experts, and export logistics.
 
 ### B. Martian Civic Domes (Permanent Settlement Base)
 * **Structural Paradigm:** Subsurface-anchored, regolith-shielded geodesic domes engineered to mitigate radiation exposure and low atmospheric pressure.
