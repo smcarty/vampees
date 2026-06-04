@@ -1,4 +1,4 @@
-# 🌐 The Integrated Nutrient Network: Martian/Orbital Infrastructure
+# 🍀 The Integrated Nutrient Network: Martian/Orbital Infrastructure
 
 ## 1. Systemic Philosophy
 The Nutrient Network operates as a closed-loop biological architecture. Food production, life-support maintenance, and human psychological health are treated as a singular, unified cycle rather than independent systems.
