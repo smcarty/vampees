@@ -24,3 +24,18 @@ Algae cannot live on carbon dioxide alone; it requires a constant influx of wate
 * **The Inline Bio-Scanner:** Every drop of water and every batch of nutrient media meant to feed the Matrix must pass through an automated diagnostic checkpoint before entering the clean lines. 
 * **The Check:** High-throughput automated mass spectrometry and rapid DNA-sequencing loops scan the fluid in real-time. The system cross-references the input against a database of known predatory phages, competitive molds, and chemical toxins.
 * **The Intercept:** If even a single foreign biological marker or anomalous chemical signature is detected, the intake valve slam-shuts in milliseconds. The contaminated feed batch is instantly diverted to an isolated containment tank, blasted with superheated steam, and purged entirely out of the system.
+
+
+---
+
+
+## 4. 🦐 Secondary Consumer Loop: The Invertebrate Protein Matrix 🐌
+To convert raw cellular biomass into safe, complex animal proteins for the station crew, the downstream output of the Algae Matrices is routed directly into an isolated Invertebrate Matrix featuring high-density *Neocaridina* (shrimp) and specialized gastropod (snail) bio-reactors.
+
+### A. Metabolic Waste Processing
+* **The Trophic Link:** Excess, spent algae biomass and highly processed, sterilized grey-water inputs are systematically fed into vertical, multi-tiered aquatic stacks.
+* **Bioremediation:** The invertebrate population acts as a dynamic biological filtration system, consuming detritus and stabilizing the water chemistry before it is recycled back into the primary station reservoirs.
+
+### B. Nutritional and Structural Yields
+* **Crew Rations:** Harvested shrimp and snail biomass provides a vital, biosecure source of animal protein, complex amino acids, and lipids necessary for long-term human metabolic health in deep space.
+* **Mineral Harvesting:** Harvested gastropod shells are diverted to specialized metallurgical and agricultural loops, crushed into pure calcium carbonate feedstock to serve as bone-density medical supplements for low-gravity personnel.
