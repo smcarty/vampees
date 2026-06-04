@@ -7,7 +7,7 @@ Our guiding principle for the outer solar system and hostile planetary surfaces 
 
 ---
 
-## 2. Integrated Planetary Domes: Venus vs. Mars
+## 2. ⛺️ Integrated Planetary Domes: Venus vs. Mars
 
 Surface and atmospheric infrastructure are split into distinct structural and civil paradigms based on localized planetary profiles.
 
@@ -29,7 +29,7 @@ Surface and atmospheric infrastructure are split into distinct structural and ci
 
 ---
 
-## 3. The Titan Cryogenic Shallow-Sea Sentinel
+## 3. 🔋The Titan Cryogenic Shallow-Sea Sentinel
 
 To explore the prebiotic and biochemical potential of Saturn's largest moon without biological or chemical contamination, a specialized surface probe framework is required.
 
@@ -51,7 +51,7 @@ Before any mechanical extraction occurs within the Saturnian system, the sentine
 
 ---
 
-## 4. Low Delta-V Ring Harvesting (Saturn & Jupiter)
+## 4. 🪐 Low Delta-V Ring Harvesting (Saturn & Jupiter)
 
 Rather than spending massive energy stores fighting the deep gravity wells of the gas giants, the VAMPEES pipeline targets the sweeping particulate structures of their respective ring fields.
 
@@ -65,7 +65,7 @@ Rather than spending massive energy stores fighting the deep gravity wells of th
 
 ---
 
-## 5. Systemic Station Construction & Ethical Waste Allocation
+### 5. ☢️ Systemic Station Construction & Ethical Waste Allocation
 
 ### A. Material Scale and Ring Preservation
 * **Volumetric Conservation:** While the Saturnian ring system spans vast orbital distances, its physical mass is a finite celestial asset. To prevent the physical denuding or cosmetic degradation of Saturn's iconic silhouette, harvesting protocols enforce a strict "skimming limit."
