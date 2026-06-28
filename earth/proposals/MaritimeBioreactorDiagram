@@ -1,0 +1,32 @@
+flowchart LR
+
+%% INPUTS
+A[Marine Engine Exhaust CO₂] --> B[Carbon Capture Bioreactor Module]
+C[Seawater Intake] --> B
+D[Light Source (Solar / Artificial)] --> B
+
+%% BIOLOGICAL CONVERSION
+B --> E[Algal Biomass Suspension]
+B --> F[Oxygenated Water Output]
+
+%% CONVERSION MODULE
+E --> G[Biomass Conversion Module]
+G --> H[Concentrated Biomass Stream]
+
+%% WATER RETURN
+G --> I[Treated Seawater Return]
+I --> J[Ocean Discharge]
+
+%% THERMAL PROCESSING
+K[Engine Waste Heat] --> L[Thermal Recovery & Conditioning Module]
+H --> L
+L --> M[Dry Biomass Flakes]
+
+%% OUTPUT STREAM
+M --> N[Stable Biomass Product Storage]
+
+%% STYLING
+style B fill:#bff7d0
+style G fill:#ffe6b3
+style L fill:#ffd0d0
+style N fill:#d6e4ff
