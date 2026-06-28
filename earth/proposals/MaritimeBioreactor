@@ -1,0 +1,161 @@
+# Maritime Bioreactor Waste-Reduction & Closure Testbed (MBWCT)
+
+## VAMPEES Earth Subsystem
+
+This module defines a modular shipboard bioreactor system designed to reduce maritime emissions while serving as a controlled experimental platform for studying **progressive ecological closure in industrial environments**.
+
+This is not a fully closed system. It is a **testbed for measuring how closely biological and industrial processes can approach closure under continuous real-world operation**, while maintaining practical safety and maintenance constraints.
+
+---
+
+## Core Objectives
+
+- Reduce CO₂ emissions from maritime vessel operations  
+- Convert exhaust streams into biological biomass  
+- Utilize waste heat for material processing  
+- Produce stable, lightweight biomass products  
+- Evaluate limits of partial ecological closure in industrial systems  
+
+---
+
+## System Modules
+
+### 1. Carbon Capture Bioreactor Module
+
+Converts CO₂-rich engine exhaust into microalgal biomass using photobioreactor systems.
+
+**Inputs:**
+- Engine exhaust (cooled and filtered)
+- Seawater
+- Solar or artificial light
+
+**Outputs:**
+- Oxygenated water stream
+- Algal biomass suspension
+
+**Function:**
+Measures carbon uptake efficiency and biological growth stability under continuous maritime operation.
+
+---
+
+### 2. Biomass Conversion Module
+
+Concentrates suspended biological material into harvestable biomass.
+
+**Configurations:**
+- Mechanical filtration and concentration (baseline)
+- Optional biological concentration layer (experimental trophic processing)
+
+**Outputs:**
+- Concentrated wet biomass stream
+- Treated seawater returned to system loop
+
+**Function:**
+Evaluates mechanical vs biologically assisted concentration efficiency and system stability.
+
+---
+
+### 3. Thermal Recovery & Biomass Conditioning Module
+
+Uses engine waste heat to process harvested biomass into stable, transportable form.
+
+**Inputs:**
+- Engine waste heat
+- High-moisture biomass from conversion module
+
+**Outputs:**
+- Low-moisture, lightweight biomass flakes
+- Cooled exhaust routed back into upstream carbon capture system
+
+**Function:**
+Performs dual-role processing:
+1. Waste heat recovery from marine propulsion systems  
+2. Biomass dehydration and structural stabilization  
+
+This process produces a **lightweight, shelf-stable flake biomass**, optimized for storage, transport, and downstream use.
+
+---
+
+### 4. Water Exchange Module
+
+Manages controlled seawater intake and discharge.
+
+**Inputs:**
+- Ambient seawater
+
+**Outputs:**
+- Filtered, thermally stabilized discharge water
+
+**Constraints:**
+- Must comply with marine environmental safety standards  
+- Must prevent ecological contamination or species transfer  
+
+**Function:**
+Measures environmental impact and material loss within continuous biological processing systems.
+
+---
+
+## Biomass Product Output Layer
+
+The final processed biomass is treated as a **usable industrial commodity stream**, not waste.
+
+### Output Characteristics
+- Dried, lightweight biomass flakes
+- Stable for long-duration storage and transport
+- High surface-area digestible structure
+
+### Intended Use Case
+- Aquaculture feedstock supply chain
+- Fish and shrimp hatchery nutrition support
+- Partial replacement for conventional fish meal inputs
+
+### System Function
+This layer evaluates whether maritime emissions can be partially converted into:
+- reduced carbon output  
+- usable biological material  
+- economically transportable feedstock  
+
+It introduces a **resource recovery loop layered on top of environmental remediation**, allowing assessment of both ecological and economic viability.
+
+---
+
+## Experimental Metrics
+
+This system is a **quantitative testbed**, not a closed ecological claim.
+
+### Primary Metrics
+- CO₂ capture rate (kg/day per reactor volume)
+- Biomass yield per fuel unit consumed
+- Waste heat utilization efficiency
+- System stability duration under continuous operation
+- Nutrient loss rate over time
+
+### Secondary Metrics
+- Biofouling rate
+- Maintenance frequency
+- System failure modes and cascade behavior
+- Biological variability under environmental stress
+
+---
+
+## System Classification
+
+- Industrial symbiosis test platform  
+- Partial ecological closure experimental system  
+- Maritime environmental remediation and resource recovery framework  
+
+This system is explicitly **not assumed to be fully closed, self-sustaining, or autonomous**.
+
+---
+
+## Summary
+
+The MBWCT system defines a modular maritime bioreactor architecture designed to:
+
+- reduce vessel emissions  
+- convert waste streams into biological biomass  
+- recover waste heat into usable processing energy  
+- produce stable biomass flake products for downstream aquaculture use  
+- measure the real-world limits of ecological closure in industrial systems  
+
+Its primary value is generating measurable data on how far industrial systems can safely approach self-recycling behavior while maintaining operational stability and economic utility.
